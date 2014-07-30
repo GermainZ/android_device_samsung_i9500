@@ -145,7 +145,7 @@ PRODUCT_PACKAGES += \
 
 # Torch
 PRODUCT_PACKAGES += \
-    Torch
+    OmniTorch
 
 # Wifi
 PRODUCT_PACKAGES += \
